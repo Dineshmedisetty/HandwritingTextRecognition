@@ -62,6 +62,7 @@ The model uses a CNN-RNN architecture with CTC loss for handwriting recognition:
 The model achieved the following results on the test set:
 - Accuracy: 88%
 - Character Error Rate (CER): 0.09182
+
 These results demonstrate strong performance in recognizing handwritten text, even in cases with moderate noise or style variation. The low CER indicates that the system is effective at minimizing transcription mistakes at the character level.
 
 ## License
